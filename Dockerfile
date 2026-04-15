@@ -1,1 +1,1 @@
-FROM gcr.io/cloud-tagging-10302018/gtm-cloud-image:2.3.0
+FROM gcr.io/cloud-tagging-10302018/gtm-cloud-image:4.2.0
